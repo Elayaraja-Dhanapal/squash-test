@@ -5,4 +5,4 @@ This repo is used to test the squash
 
 Second commit on branch A
 
-Test enterprise email id for signing commits.
+Verify enterprise email id for signing commits.
